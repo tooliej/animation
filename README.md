@@ -1,2 +1,2 @@
 # animation
-Loading spinner animation in white with black background.
+Loading spinner animation in white, with black background.
